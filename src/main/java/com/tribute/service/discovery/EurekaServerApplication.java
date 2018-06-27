@@ -1,4 +1,4 @@
-package com.frankmoley.service.discovery;
+package com.tribute.service.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

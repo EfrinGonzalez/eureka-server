@@ -1,4 +1,4 @@
-package com.frankmoley.service.discovery;
+package com.tribute.service.discovery;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
